@@ -17,3 +17,5 @@ This activity is worth a total of 10 points:
 - [1 point] links to a webpage relevant to the class (e.g. Wikipedia; 0.5 point if some classes are missing a working link)   
 - [1 point] embed a relevant picture/figure (0.5 point if one or more classes are missing an embedded image)  
 
+
+Thanks!
